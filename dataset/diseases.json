@@ -1,0 +1,418 @@
+[
+    {
+        "disease": "Common Cold",
+        "symptoms": ["sneezing", "runny nose", "sore throat", "cough"],
+        "all_symptoms": "sneezing runny nose sore throat cough",
+        "description": "A viral infection of your nose and throat.",
+        "treatment": "Rest, hydration, over-the-counter cold medications.",
+        "prevention": "Wash hands regularly, avoid close contact with sick individuals."
+    },
+    {
+        "disease": "Influenza",
+        "symptoms": ["fever", "chills", "muscle aches", "fatigue", "headache"],
+        "all_symptoms": "fever chills muscle aches fatigue headache",
+        "description": "A contagious respiratory illness caused by influenza viruses.",
+        "treatment": "Antiviral drugs, rest, and hydration.",
+        "prevention": "Annual flu vaccination, good hygiene practices."
+    },
+    {
+        "disease": "Migraine",
+        "symptoms": ["severe headache", "nausea", "sensitivity to light", "sensitivity to sound"],
+        "all_symptoms": "severe headache nausea sensitivity to light sensitivity to sound",
+        "description": "A neurological condition often accompanied by intense headaches.",
+        "treatment": "Pain relievers, anti-nausea drugs, rest in a dark room.",
+        "prevention": "Identify and avoid triggers, manage stress, stay hydrated."
+    },
+    {
+        "disease": "Diabetes",
+        "symptoms": ["frequent urination", "increased thirst", "fatigue", "unexplained weight loss"],
+        "all_symptoms": "frequent urination increased thirst fatigue unexplained weight loss",
+        "description": "A chronic condition that affects how the body processes blood sugar.",
+        "treatment": "Diet changes, insulin therapy, oral medications.",
+        "prevention": "Maintain a healthy weight, exercise regularly, eat a balanced diet."
+    },
+    {
+        "disease": "Hypertension",
+        "symptoms": ["high blood pressure", "headache", "shortness of breath", "chest pain"],
+        "all_symptoms": "high blood pressure headache shortness of breath chest pain",
+        "description": "A condition characterized by persistently high blood pressure.",
+        "treatment": "Lifestyle changes, antihypertensive medications.",
+        "prevention": "Eat a low-sodium diet, exercise, manage stress."
+    },
+    {
+        "disease": "Asthma",
+        "symptoms": ["shortness of breath", "wheezing", "chest tightness", "cough"],
+        "all_symptoms": "shortness of breath wheezing chest tightness cough",
+        "description": "A condition in which your airways narrow and swell, causing breathing difficulty.",
+        "treatment": "Inhalers, bronchodilators, corticosteroids.",
+        "prevention": "Avoid allergens, use preventive inhalers, manage stress."
+    },
+    {
+        "disease": "Pneumonia",
+        "symptoms": ["cough with phlegm", "fever", "chest pain", "shortness of breath"],
+        "all_symptoms": "cough with phlegm fever chest pain shortness of breath",
+        "description": "An infection that inflames the air sacs in the lungs.",
+        "treatment": "Antibiotics, rest, and hydration.",
+        "prevention": "Vaccination, avoid smoking, maintain good hygiene."
+    },
+    {
+        "disease": "Bronchitis",
+        "symptoms": ["persistent cough", "mucus production", "fatigue", "shortness of breath"],
+        "all_symptoms": "persistent cough mucus production fatigue shortness of breath",
+        "description": "Inflammation of the bronchial tubes in the lungs.",
+        "treatment": "Cough suppressants, hydration, rest.",
+        "prevention": "Avoid smoking, wear masks in polluted environments."
+    },
+    {
+        "disease": "Tuberculosis",
+        "symptoms": ["persistent cough", "fever", "night sweats", "weight loss"],
+        "all_symptoms": "persistent cough fever night sweats weight loss",
+        "description": "A serious infectious disease that mainly affects the lungs.",
+        "treatment": "Antibiotic therapy for 6–9 months.",
+        "prevention": "Vaccination, early detection, avoid crowded areas."
+    },
+    {
+        "disease": "Malaria",
+        "symptoms": ["fever", "chills", "sweating", "nausea", "vomiting"],
+        "all_symptoms": "fever chills sweating nausea vomiting",
+        "description": "A life-threatening disease caused by parasites transmitted through mosquito bites.",
+        "treatment": "Antimalarial medications.",
+        "prevention": "Use mosquito nets, insect repellents, take preventive antimalarials."
+    },
+    {
+        "disease": "Dengue Fever",
+        "symptoms": ["fever", "severe headache", "joint pain", "rash"],
+        "all_symptoms": "fever severe headache joint pain rash",
+        "description": "A mosquito-borne viral infection causing flu-like symptoms.",
+        "treatment": "Pain relievers, hydration, rest.",
+        "prevention": "Avoid mosquito bites, eliminate standing water."
+    },
+    {
+        "disease": "Typhoid",
+        "symptoms": ["high fever", "abdominal pain", "constipation", "diarrhea"],
+        "all_symptoms": "high fever abdominal pain constipation diarrhea",
+        "description": "A bacterial infection caused by contaminated food or water.",
+        "treatment": "Antibiotics, hydration, rest.",
+        "prevention": "Vaccination, eat safe food and water."
+    },
+    {
+        "disease": "Gastroenteritis",
+        "symptoms": ["diarrhea", "vomiting", "abdominal cramps", "dehydration"],
+        "all_symptoms": "diarrhea vomiting abdominal cramps dehydration",
+        "description": "Inflammation of the stomach and intestines, often caused by infection.",
+        "treatment": "Hydration, electrolyte solutions, anti-diarrheal medications.",
+        "prevention": "Practice good hygiene, avoid contaminated food and water."
+    },
+    {
+        "disease": "Peptic Ulcer",
+        "symptoms": ["stomach pain", "nausea", "vomiting", "bloating"],
+        "all_symptoms": "stomach pain nausea vomiting bloating",
+        "description": "Sores on the lining of the stomach or upper small intestine.",
+        "treatment": "Antacids, antibiotics (if caused by H. pylori).",
+        "prevention": "Avoid NSAIDs, limit alcohol, reduce stress."
+    },
+    {
+        "disease": "Kidney Stones",
+        "symptoms": ["severe pain", "blood in urine", "nausea", "frequent urination"],
+        "all_symptoms": "severe pain blood in urine nausea frequent urination",
+        "description": "Hard deposits made of minerals and salts inside the kidneys.",
+        "treatment": "Pain relievers, hydration, surgery (if large stones).",
+        "prevention": "Drink plenty of water, reduce salt intake."
+    },
+    {
+        "disease": "Anemia",
+        "symptoms": ["fatigue", "weakness", "pale skin", "shortness of breath"],
+        "all_symptoms": "fatigue weakness pale skin shortness of breath",
+        "description": "A condition in which there is a lack of healthy red blood cells.",
+        "treatment": "Iron supplements, dietary changes.",
+        "prevention": "Eat iron-rich foods, manage underlying conditions."
+    },
+    {
+        "disease": "COVID-19",
+        "symptoms": ["fever", "cough", "shortness of breath", "loss of taste or smell"],
+        "all_symptoms": "fever cough shortness of breath loss of taste or smell",
+        "description": "A respiratory illness caused by the coronavirus.",
+        "treatment": "Symptomatic treatment, antivirals (in severe cases).",
+        "prevention": "Vaccination, mask-wearing, social distancing."
+    },
+    {
+        "disease": "Allergic Rhinitis",
+        "symptoms": ["sneezing", "runny nose", "itchy eyes", "nasal congestion"],
+        "all_symptoms": "sneezing runny nose itchy eyes nasal congestion",
+        "description": "An allergic reaction causing nasal congestion and sneezing.",
+        "treatment": "Antihistamines, nasal sprays, decongestants.",
+        "prevention": "Avoid allergens, use air purifiers."
+    },
+    {
+        "disease": "Depression",
+        "symptoms": ["persistent sadness", "loss of interest", "fatigue", "sleep disturbances"],
+        "all_symptoms": "persistent sadness loss of interest fatigue sleep disturbances",
+        "description": "A mood disorder causing persistent feelings of sadness and loss of interest.",
+        "treatment": "Therapy, antidepressants, lifestyle changes.",
+        "prevention": "Manage stress, stay socially connected."
+    },
+    {
+        "disease": "Arthritis",
+        "symptoms": ["joint pain", "stiffness", "swelling", "reduced joint mobility"],
+        "all_symptoms": "joint pain stiffness swelling reduced joint mobility",
+        "description": "Inflammation of one or more joints, causing pain and stiffness.",
+        "treatment": "Pain relievers, physical therapy, anti-inflammatory drugs.",
+        "prevention": "Maintain a healthy weight, exercise regularly."
+    },
+    {
+        "disease": "Alzheimer's Disease",
+        "symptoms": ["memory loss", "confusion", "difficulty thinking", "behavior changes"],
+        "all_symptoms": "memory loss confusion difficulty thinking behavior changes",
+        "description": "A progressive neurological disorder that causes memory loss and cognitive decline.",
+        "treatment": "Medications to slow progression, cognitive therapies.",
+        "prevention": "Stay mentally active, maintain a healthy diet, exercise regularly."
+    },
+    {
+        "disease": "Parkinson's Disease",
+        "symptoms": ["tremors", "stiffness", "slow movement", "balance problems"],
+        "all_symptoms": "tremors stiffness slow movement balance problems",
+        "description": "A nervous system disorder affecting movement and coordination.",
+        "treatment": "Medications, physical therapy, surgery in severe cases.",
+        "prevention": "Healthy lifestyle, avoiding exposure to toxins."
+    },
+    {
+        "disease": "Eczema",
+        "symptoms": ["itchy skin", "redness", "dry skin", "skin inflammation"],
+        "all_symptoms": "itchy skin redness dry skin skin inflammation",
+        "description": "A chronic skin condition causing inflammation and irritation.",
+        "treatment": "Moisturizers, corticosteroid creams, antihistamines.",
+        "prevention": "Avoid triggers, maintain skin hydration."
+    },
+    {
+        "disease": "Psoriasis",
+        "symptoms": ["red patches of skin", "scaling", "itching", "joint pain"],
+        "all_symptoms": "red patches of skin scaling itching joint pain",
+        "description": "A skin condition where skin cells build up, forming scales and itchy, dry patches.",
+        "treatment": "Topical treatments, phototherapy, systemic medications.",
+        "prevention": "Avoid triggers, manage stress, maintain skin care."
+    },
+    {
+        "disease": "Hepatitis B",
+        "symptoms": ["jaundice", "fatigue", "nausea", "abdominal pain"],
+        "all_symptoms": "jaundice fatigue nausea abdominal pain",
+        "description": "A viral infection affecting the liver.",
+        "treatment": "Antiviral drugs, supportive care.",
+        "prevention": "Vaccination, avoid sharing needles, safe sex practices."
+    },
+    {
+        "disease": "Hepatitis C",
+        "symptoms": ["fatigue", "loss of appetite", "dark urine", "jaundice"],
+        "all_symptoms": "fatigue loss of appetite dark urine jaundice",
+        "description": "A liver disease caused by the hepatitis C virus.",
+        "treatment": "Antiviral medications.",
+        "prevention": "Avoid sharing needles, safe sex practices."
+    },
+    {
+        "disease": "Celiac Disease",
+        "symptoms": ["diarrhea", "bloating", "weight loss", "abdominal pain"],
+        "all_symptoms": "diarrhea bloating weight loss abdominal pain",
+        "description": "An immune reaction to eating gluten, damaging the small intestine.",
+        "treatment": "Gluten-free diet.",
+        "prevention": "There is no known prevention, but early diagnosis helps manage symptoms."
+    },
+    {
+        "disease": "Epilepsy",
+        "symptoms": ["seizures", "temporary confusion", "staring spells", "unconsciousness"],
+        "all_symptoms": "seizures temporary confusion staring spells unconsciousness",
+        "description": "A neurological disorder marked by recurring seizures.",
+        "treatment": "Antiepileptic drugs, surgery in some cases.",
+        "prevention": "Prevent head injuries, manage infections, and avoid triggers."
+    },
+    {
+        "disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "symptoms": ["chronic cough", "shortness of breath", "wheezing", "chest tightness"],
+        "all_symptoms": "chronic cough shortness of breath wheezing chest tightness",
+        "description": "A group of lung diseases causing breathing difficulty.",
+        "treatment": "Bronchodilators, steroids, oxygen therapy.",
+        "prevention": "Avoid smoking, reduce exposure to pollutants."
+    },
+    {
+        "disease": "Lupus",
+        "symptoms": ["joint pain", "fatigue", "skin rash", "fever"],
+        "all_symptoms": "joint pain fatigue skin rash fever",
+        "description": "An autoimmune disease where the immune system attacks healthy tissue.",
+        "treatment": "Immunosuppressants, anti-inflammatory drugs.",
+        "prevention": "Avoid known triggers, manage stress."
+    },
+    {
+        "disease": "Irritable Bowel Syndrome (IBS)",
+        "symptoms": ["abdominal pain", "bloating", "diarrhea", "constipation"],
+        "all_symptoms": "abdominal pain bloating diarrhea constipation",
+        "description": "A digestive disorder causing abdominal discomfort and irregular bowel habits.",
+        "treatment": "Dietary changes, stress management, medications.",
+        "prevention": "Identify and avoid trigger foods, maintain a balanced diet."
+    },
+    {
+        "disease": "Thyroid Disorders",
+        "symptoms": ["fatigue", "weight changes", "hair loss", "cold or heat intolerance"],
+        "all_symptoms": "fatigue weight changes hair loss cold or heat intolerance",
+        "description": "Conditions affecting the thyroid gland, such as hypothyroidism or hyperthyroidism.",
+        "treatment": "Thyroid hormone replacement, medications to regulate hormones.",
+        "prevention": "Maintain a balanced iodine intake, regular health check-ups."
+    },
+    {
+        "disease": "Osteoporosis",
+        "symptoms": ["bone fractures", "loss of height", "back pain", "weak bones"],
+        "all_symptoms": "bone fractures loss of height back pain weak bones",
+        "description": "A condition where bones become weak and brittle.",
+        "treatment": "Calcium and vitamin D supplements, bone-strengthening medications.",
+        "prevention": "Eat a calcium-rich diet, exercise regularly, avoid smoking."
+    },
+    {
+        "disease": "Endometriosis",
+        "symptoms": ["pelvic pain", "painful periods", "infertility", "heavy bleeding"],
+        "all_symptoms": "pelvic pain painful periods infertility heavy bleeding",
+        "description": "A disorder in which tissue similar to the uterus lining grows outside it.",
+        "treatment": "Pain relief, hormone therapy, surgery.",
+        "prevention": "Early diagnosis and management."
+    },
+    {
+        "disease": "Lyme Disease",
+        "symptoms": ["rash", "fever", "fatigue", "joint pain"],
+        "all_symptoms": "rash fever fatigue joint pain",
+        "description": "A bacterial infection transmitted by tick bites.",
+        "treatment": "Antibiotics.",
+        "prevention": "Avoid tick-infested areas, use insect repellent."
+    },
+    {
+        "disease": "Gout",
+        "symptoms": ["joint pain", "swelling", "redness", "stiffness"],
+        "all_symptoms": "joint pain swelling redness stiffness",
+        "description": "A form of arthritis caused by uric acid crystal deposits in the joints.",
+        "treatment": "Pain relievers, anti-inflammatory drugs, lifestyle changes.",
+        "prevention": "Avoid high-purine foods, stay hydrated, maintain a healthy weight."
+    },
+    {
+        "disease": "Cholera",
+        "symptoms": ["severe diarrhea", "dehydration", "vomiting", "leg cramps"],
+        "all_symptoms": "severe diarrhea dehydration vomiting leg cramps",
+        "description": "An acute diarrheal disease caused by ingestion of contaminated water or food.",
+        "treatment": "Rehydration therapy, antibiotics in severe cases.",
+        "prevention": "Drink clean water, practice good hygiene, vaccination."
+    },
+    {
+        "disease": "HIV/AIDS",
+        "symptoms": ["weight loss", "fever", "fatigue", "recurrent infections"],
+        "all_symptoms": "weight loss fever fatigue recurrent infections",
+        "description": "A viral infection that attacks the immune system.",
+        "treatment": "Antiretroviral therapy (ART).",
+        "prevention": "Safe sex practices, avoid sharing needles, use pre-exposure prophylaxis (PrEP)."
+    },
+    {
+        "disease": "Chickenpox",
+        "symptoms": ["itchy rash", "fever", "fatigue", "loss of appetite"],
+        "all_symptoms": "itchy rash fever fatigue loss of appetite",
+        "description": "A contagious viral infection causing an itchy rash and flu-like symptoms.",
+        "treatment": "Antihistamines, antiviral drugs (in severe cases).",
+        "prevention": "Vaccination."
+    },
+    {
+        "disease": "Shingles",
+        "symptoms": ["painful rash", "blisters", "itching", "tingling sensation"],
+        "all_symptoms": "painful rash blisters itching tingling sensation",
+        "description": "A reactivation of the chickenpox virus, causing a painful rash.",
+        "treatment": "Antiviral medications, pain relievers.",
+        "prevention": "Vaccination, avoiding stress."
+    },
+    {
+        "disease": "Polio",
+        "symptoms": ["muscle weakness", "paralysis", "fever", "fatigue"],
+        "all_symptoms": "muscle weakness paralysis fever fatigue",
+        "description": "A viral infection that can cause paralysis.",
+        "treatment": "Supportive care, physical therapy.",
+        "prevention": "Polio vaccination."
+    },
+    {
+        "disease": "Measles",
+        "symptoms": ["fever", "cough", "runny nose", "rash"],
+        "all_symptoms": "fever cough runny nose rash",
+        "description": "A highly contagious viral infection causing fever and a red rash.",
+        "treatment": "Supportive care, vitamin A supplementation.",
+        "prevention": "Measles vaccination."
+    },
+    {
+        "disease": "Rabies",
+        "symptoms": ["fever", "headache", "difficulty swallowing", "paralysis"],
+        "all_symptoms": "fever headache difficulty swallowing paralysis",
+        "description": "A viral infection transmitted through animal bites, affecting the nervous system.",
+        "treatment": "Post-exposure prophylaxis (PEP).",
+        "prevention": "Vaccinate pets, avoid contact with stray animals."
+    },
+    {
+        "disease": "Tetanus",
+        "symptoms": ["muscle stiffness", "jaw locking", "difficulty swallowing", "seizures"],
+        "all_symptoms": "muscle stiffness jaw locking difficulty swallowing seizures",
+        "description": "A bacterial infection causing painful muscle stiffness.",
+        "treatment": "Antibiotics, tetanus immunoglobulin.",
+        "prevention": "Tetanus vaccination, proper wound care."
+    },
+    {
+        "disease": "Whooping Cough (Pertussis)",
+        "symptoms": ["severe cough", "runny nose", "fever", "vomiting after coughing"],
+        "all_symptoms": "severe cough runny nose fever vomiting after coughing",
+        "description": "A highly contagious respiratory disease characterized by uncontrollable coughing.",
+        "treatment": "Antibiotics, supportive care.",
+        "prevention": "Vaccination."
+    },
+    {
+        "disease": "Mononucleosis (Mono)",
+        "symptoms": ["fatigue", "sore throat", "swollen lymph nodes", "fever"],
+        "all_symptoms": "fatigue sore throat swollen lymph nodes fever",
+        "description": "A viral infection often caused by the Epstein-Barr virus.",
+        "treatment": "Rest, hydration, pain relievers.",
+        "prevention": "Avoid sharing drinks or utensils with infected individuals."
+    },
+    {
+        "disease": "Hernia",
+        "symptoms": ["bulge in the abdomen", "pain while lifting", "discomfort", "nausea"],
+        "all_symptoms": "bulge in the abdomen pain while lifting discomfort nausea",
+        "description": "A condition where an organ pushes through an opening in the muscle or tissue.",
+        "treatment": "Surgery.",
+        "prevention": "Avoid heavy lifting, maintain a healthy weight."
+    },
+    {
+        "disease": "Pancreatitis",
+        "symptoms": ["abdominal pain", "nausea", "vomiting", "fever"],
+        "all_symptoms": "abdominal pain nausea vomiting fever",
+        "description": "Inflammation of the pancreas.",
+        "treatment": "Fasting, IV fluids, pain relief.",
+        "prevention": "Avoid alcohol, maintain a healthy diet."
+    },
+    {
+        "disease": "Hemorrhoids",
+        "symptoms": ["painful swelling near the anus", "bleeding during bowel movements", "itching", "discomfort"],
+        "all_symptoms": "painful swelling near the anus bleeding during bowel movements itching discomfort",
+        "description": "Swollen veins in the rectum or anus causing discomfort.",
+        "treatment": "Topical treatments, lifestyle changes, surgery in severe cases.",
+        "prevention": "High-fiber diet, avoid straining during bowel movements."
+    },
+    {
+        "disease": "Vertigo",
+        "symptoms": ["dizziness", "nausea", "loss of balance", "spinning sensation"],
+        "all_symptoms": "dizziness nausea loss of balance spinning sensation",
+        "description": "A sensation of spinning or dizziness.",
+        "treatment": "Vestibular therapy, medications.",
+        "prevention": "Avoid sudden head movements, manage stress."
+    },
+    {
+        "disease": "Sinusitis",
+        "symptoms": ["nasal congestion", "facial pain", "headache", "cough"],
+        "all_symptoms": "nasal congestion facial pain headache cough",
+        "description": "Inflammation of the sinuses causing nasal congestion.",
+        "treatment": "Decongestants, nasal irrigation, antibiotics (if bacterial).",
+        "prevention": "Manage allergies, avoid upper respiratory infections."
+    },
+    {
+        "disease": "Cataracts",
+        "symptoms": ["blurred vision", "sensitivity to light", "difficulty seeing at night", "fading colors"],
+        "all_symptoms": "blurred vision sensitivity to light difficulty seeing at night fading colors",
+        "description": "A clouding of the eye's lens causing vision problems.",
+        "treatment": "Surgical removal of the cataract.",
+        "prevention": "Wear sunglasses, maintain a healthy diet rich in antioxidants."
+    }
+]
